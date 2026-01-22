@@ -1,0 +1,7 @@
+{
+  "name": "FinançasAI - Controle Inteligente",
+  "description": "Uma plataforma de gestão financeira avançada que utiliza IA para analisar seus extratos (PDF, CSV, TXT) e gerar insights automáticos, gráficos interativos e previsões de gastos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
